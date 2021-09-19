@@ -1,0 +1,63 @@
+
+.body {
+          background: #fafafa;
+          font-family: Arial, sans-serif;
+          line-height: 1.6;
+        }
+        
+        
+        .card {
+          padding: 40px;
+          background: #fff;
+          /* max-width: 360px; */
+          border-radius: 20px;
+          margin: 6px auto;
+          height: 660px;
+        }
+        .hor{
+          content: "";
+                    display:inline-flex ;
+                    clear: both;
+                    margin-left:90px;
+        }
+        .card2 {
+          padding: 40px;
+          
+          background: #fff;
+          max-width: 260px;
+          border-radius: 20px;
+          margin-top: 30px;
+          margin-left: 0px;
+          justify-content:space-between;
+        }
+        .shadow3 { 
+          box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+        }
+        .zoom {
+          padding: 50px;
+        
+          transition: transform .2s; 
+          
+        }
+        
+        .zoom:hover {
+          transform: scale(1.5); 
+        }
+        .mapcard{
+          display:inline-flex;
+          
+        }
+        .mapcard{
+          justify-content: space-between;
+        }
+        .mh7{
+          margin-left: 102px;
+
+        }
+       .price{
+        display:flex ;
+        justify-content: space-between;
+       }
+       .prog{
+         margin-top: 5px;
+       }

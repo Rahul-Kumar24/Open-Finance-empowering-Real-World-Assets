@@ -1,0 +1,11 @@
+.header{
+          background: rgb(206, 200, 200);
+          height:100px;
+        }
+        .item{
+        text-align: center;
+        cursor: pointer;
+        }
+        .live{
+          color:red
+        }

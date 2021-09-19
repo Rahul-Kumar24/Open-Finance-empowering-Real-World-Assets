@@ -1,0 +1,73 @@
+.main-sider {
+  display: flex;
+  width: 100%;
+  height: auto;
+  background: #fafafa;
+}
+.left-sider {
+  display: inline-block;
+  width: 160px;
+  margin-right: 10px;
+  height: 700px;
+  padding: 0.99rem;
+  background: rgb(79, 79, 80);
+}
+.right-sider {
+  /* box-shadow: 0 40px 30px -10px rgba(150,170,180,0.5); */
+  display: inline-block;
+  /* flex-grow: 1; */
+  /* margin-right:40px;  */
+  padding: 0.5rem;
+  width: 89%;
+  height: 100%;
+  flex-grow: 1;
+  /* margin:auto; */
+  background: rgb(252, 249, 249);
+  /* box-shadow: 10px; */
+}
+.BsCircle {
+  font-size: 70px;
+  margin-left: 24px;
+  background-color: white;
+  justify-content: center;
+  border-radius: 42px;
+}
+
+.text {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  justify-content: center;
+}
+
+.icon {
+  font-size: 55px;
+  cursor: pointer;
+  color: #fafafa;
+}
+.div1 {
+  margin-top: 10px;
+  display: inline-flex;
+  margin-left: 9px;
+}
+.div2 {
+  margin-top: 20px;
+  display: inline-flex;
+  margin-left: 9px;
+}
+.div3 {
+  margin-top: 20px;
+  display: inline-flex;
+  margin-left: 9px;
+}
+.div4 {
+  margin-top: 20px;
+  display: inline-flex;
+  margin-left: 9px;
+}
+h6.h6 {
+  margin-top: 23px;
+  margin-left: 9px;
+  color: #fafafa;
+  cursor: pointer;
+}

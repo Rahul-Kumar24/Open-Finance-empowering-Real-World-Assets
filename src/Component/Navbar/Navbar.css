@@ -1,0 +1,51 @@
+.navbar {
+  background: rgb(172, 163, 163);
+  justify-content: flex;
+  height: 50px;
+}
+/* .icon{
+          justify-content: 'space-between';
+          margin-left: auto; 
+          margin-right: 9px;
+         
+} */
+.logo {
+  display: flex;
+  font-size: 30px;
+  margin-left: 18px;
+  margin-bottom: 6px;
+  color: rgb(70, 65, 65);
+}
+
+.cname {
+  display: flex;
+  margin-left: 18px;
+  font-size: 20px;
+  font-weight: 850;
+}
+
+.dash {
+  display: flex;
+  margin-left: 450px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.mi {
+  margin-right: 10px;
+}
+.bs {
+  font-size: 30px;
+  margin-left: 590px;
+  margin-bottom: 2px;
+}
+.cg {
+  font-size: 45px;
+  margin-left: 10px;
+  margin-bottom: 6px;
+}
+
+.hi {
+  font-size: 30px;
+  margin-left: 10px;
+  margin-bottom: 2px;
+}
